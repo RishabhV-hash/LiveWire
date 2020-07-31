@@ -3,7 +3,7 @@ Video sharing website (YouTube clone)
 
 
 ## Description
-Vidhub is a video sharing website done using PHP and MySQL. It is website built exclusively for shairng videos on the demonstration of sensors.
+LiveWire is a video sharing website done using PHP and MySQL. It is website built exclusively for shairng videos on the demonstration of sensors.
 
 
 
