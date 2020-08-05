@@ -12,9 +12,8 @@ LiveWire is a video sharing website done using PHP and MySQL. It is a website bu
 1. Clone or download this repositories
 2. Unzip and open with TextEditor (VS Code)
 3. Create MySQL database and name it to 'LiveWire'
-4. Change host, username and password of MySQL database in 'includes\config.php'
-5. Apply and Upload livewire.sql to 'LiveWire' database
-6. Run!
+4. Apply and Upload livewire.sql to 'LiveWire' database
+5. Run!
 ````
 
 ***You can download latest version of FFMPEG Static file for conversion of video and to generates Thumbnail***
@@ -25,8 +24,7 @@ Choose FFMPEG Static files based on your operating system, Download and replace 
 
 ***If you wish to process video or upload it to localhost folder***
 ````
-1. Go to 'includes/classes/' and rename 'VideoProcessor-localhost' to 'VideoProcessor' (Ovewrite)
-2. You need to create 3 folder,
+1. You need to create 3 folder,
   - uploads (top)
     - videos (inside uploads folder)
       - thumbnails (inside videos folder)
