@@ -9,7 +9,7 @@ LiveWire is a video sharing website done using PHP and MySQL. It is a website bu
 
 ***Instruction on usage:***
 ````
-1. Clone or download this repositories
+1. Clone or download this repository
 2. Unzip and open with TextEditor (VS Code)
 3. Create MySQL database and name it to 'LiveWire'
 4. Apply and Upload livewire.sql to 'LiveWire' database
@@ -24,13 +24,13 @@ Choose FFMPEG Static files based on your operating system, Download and replace 
 
 ***If you wish to process video or upload it to localhost folder***
 ````
-1. You need to create 3 folder,
+1. You need to create 3 folders,
   - uploads (top)
     - videos (inside uploads folder)
       - thumbnails (inside videos folder)
 ````
 
-If you have anything to ask or would like to share your opinion, can email me:
+If you have anything to ask or would like to share your opinion,you can email me at:
 > **rishabhv11@gmail.com**
 
 ## List of Features
