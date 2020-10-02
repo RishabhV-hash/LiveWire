@@ -1,5 +1,5 @@
 # LiveWire
-Video sharing website (YouTube clone)
+Video sharing and streaming website (YouTube clone)
 
 
 ## Description
@@ -30,7 +30,7 @@ Choose FFMPEG Static files based on your operating system, Download and replace 
       - thumbnails (inside videos folder)
 ````
 
-If you have anything to ask or would like to share your opinion,you can email me at:
+If you have anything to ask or would like to share your opinion, you can email me at:
 > **rishabhv11@gmail.com**
 
 ## List of Features
